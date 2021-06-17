@@ -1,4 +1,4 @@
 # Cryptocurrency Tracker Web App 
-A Cryptocurrency tracking web app which shows the realtime data of 100 cryptocurrencies
+A React web app which shows price, volume, 24hrs stats and many more of 100 cryptocurrencies.
 
 # Description
